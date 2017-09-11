@@ -50,3 +50,7 @@ a:hover {
   width: 400px;
   margin: 5% auto;
 }
+
+.right-btn {
+  float: right;
+}
