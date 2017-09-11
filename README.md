@@ -1,10 +1,10 @@
-##Install using Yarn on npm
+## Install using Yarn on npm
 
-####With Yarn:
+#### With Yarn:
 
 run ```yarn```
 
-####With npm:
+#### With npm:
 
 run ```npm install```
 
